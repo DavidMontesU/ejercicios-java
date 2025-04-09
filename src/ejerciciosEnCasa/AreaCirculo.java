@@ -92,7 +92,7 @@ public class AreaCirculo extends JFrame implements ActionListener {
 		radio = Double.parseDouble(txtRadio.getText());
 		areaCirculo = 3.1416*radio*radio;
 		longitudC = 2*3.1416*radio;
-		txtResultado.setText("El area del circulo es: "+areaCirculo  
+		txtResultado.setText(" XDDDD El area del circulo es: "+areaCirculo  
 				+"   "
 				+ "Su longitud es: "+longitudC);
 		
